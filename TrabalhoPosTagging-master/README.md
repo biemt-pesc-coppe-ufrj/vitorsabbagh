@@ -16,7 +16,7 @@
  - hmm_accuracy: acurácia de cada tag
  - hmm_learning_apriori: matriz apriori
  - hmm_learning_emissions: matriz de observações
- - hmm_learning_sufixes: matriz de sufixos (para tratamento )
+ - hmm_learning_sufixes: matriz de sufixos
  - hmm_learning_transitions: matriz de transição 
  - hmm_testing_data: dados de teste
  - hmm_unknown_words: palavras desconhecidas
